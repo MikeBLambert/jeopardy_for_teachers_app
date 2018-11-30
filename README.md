@@ -1,6 +1,6 @@
 # _Jeopardy For Teachers App_
 
-#### _A Tool For Teachers, August 2018_
+#### _A Tool For Teachers, September 2018_
 
 #### By _**Claire Flanagan, Sarah Flynn, Sophie Graham, and Mike Lambert**_
 
